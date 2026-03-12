@@ -7,7 +7,7 @@ const NodeWrapper = ({
 }) => {
   return (
     <div
-      className={`rounded-lg border border-gray-300 bg-white p-4 shadow-md ${className}`}
+      className={`rounded-lg font-manrope font-normal px-3 p-2 shadow-md ${className}`}
     >
       {children}
     </div>
